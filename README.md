@@ -15,11 +15,9 @@ Techniques to harness energy:
 * ...
 
 ## Technology
-We're using bleeding edge technology and are releasing all of it in open source.
+We're using the latest and the best technology available. After done enormous amount of work prototyping and investigating all the available components and combinations, we've decided to use these parts:
 
-Main components:
-
-#### STMicroelectronics SPV1050 - Ultralow power energy harvester and battery charger
+###### STMicroelectronics SPV1050 - Ultralow power energy harvester and battery charger
 
 The SPV1050 is an ultralow power and high- efficiency energy harvester and battery charger, which implements the MPPT function and integrates the switching elements of a buck-boost converter.
 
@@ -27,11 +25,11 @@ The SPV1050 device allows the charge of any battery, including the thin film bat
 
 SPV1050 covers the input voltage range from 75 mV up to 18 V and guarantees high efficiency in both buck-boost and boost configuration.
 
-#### Silicon Labs TS3310 - A True 150-nA IQ, 0.9-3.6VIN, Selectable 1.8-5VOUT Instant-OnTM Boost Converter
+###### Silicon Labs TS3310 - A True 150-nA IQ, 0.9-3.6VIN, Selectable 1.8-5VOUT Instant-OnTM Boost Converter
 
 The TS3310 is a low power boost switching regulator with an industry leading low quiescent current of 150nA. The 150nA is the actual current consumed from the battery while the output is in regulation. The TS3310’s extremely low power internal circuitry consumes 90nA on average, with periodic switching cycles which service the load occurring at intervals of up to 25 seconds, together yielding the average 150nA. The TS3310 steps up input voltages from 0.9V to 3.6V to eight selectable output voltages ranging from 1.8V to 5V.
 
-#### Cap-XX Thinline series supercapacitor
+###### Cap-XX Thinline series supercapacitor
 
 CAP-XX supercapacitors are high power energy storage devices, designed to overcome the power constraints of batteries and other current-limited energy sources.
 
@@ -39,7 +37,7 @@ CAP-XX supercapacitors are exceptionally thin (as little as 0.6mm), but have mor
 
 With their unique combination of high power, high energy and a thin, flat, small form factor, CAP-XX supercapacitors can deliver peak power, backup power and power storage.
 
-#### IXOLARTM High Efficiency SolarBIT solar panel
+###### IXOLARTM High Efficiency SolarBIT solar panel
 
 IXOLARTM SolarBITs are IXYS’ product line of SolarBITs made of monocrystalline, high efficiency solar cells. The IXOLARTM SolarBITs is an ideal for charging various battery powered and handheld consumer products such as mobile phones, cameras, PDAs, MP3-Players and toys. They are also suitable for industrial applications such as wireless sensors, portable instrumentation and for charging emergency backup batteries.
 
