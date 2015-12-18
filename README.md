@@ -6,11 +6,14 @@ Have you ever bought batteries? Our planet is full of green energy, we just don'
 RuuviHarvester is a general energy harvester platform. The design has an ability to harness energy out of different sources and is easily adaptable to suit tons of different needs.
 
 Techniques to harness energy:
-* Solar panels
-* Thermogenerators
-* Vibration
-* RF waves
-* Sound pressure
+* Photovoltaic (solar panels)
+* Thermoelectrics (thermoelectric generators)
+* Piezoelectric (piezo elements)
+* Ambient-radiation sources (RF waves)
+* Biomechanical (movement)
+* Electrostatic (capacitive)
+* Magnetic induction
+* Acoustic sound fields
 * Microbial fuel cells
 * ...
 
