@@ -921,7 +921,7 @@ $EndComp
 Wire Wire Line
 	8100 5550 8100 5450
 Text Notes 700  11000 0    47   Italic 0
-A few of the possible combinations:\n\n* 1-3 cell solar panel and SPV1050 in boost mode\n* 6-18 cell solar panel and SPV1050 in buck-boost mode\n* Piezo element(s) and SPV1050 in boost mode\n* TEG element and SPV1050 in boost mode\n* Wideband antenna for RF energy scavenging and SPV1050 in boost mode\n\n+\n\n* Cap-XX Thinline and TS3310 @ 3V\n* Cap-XX Thinline + SPV1050 1.8V LDO\n* 2x Cap-XX Thinline + SPV1050 1.8V LDO\n* STM EnFilm battery + SPV1050 LDOs\n* Li-ion or LiPo battery + SPV1050 LDOs\n* 4x NiMH batteries + SPV1050 LDOs
+A few of the possible combinations:\n\n* 1-3 cell solar panel and SPV1050 in boost mode\n* 6-18 cell solar panel and SPV1050 in buck-boost mode\n* Piezo element(s) and SPV1050 in boost mode\n* TEG element and SPV1050 in boost mode\n* Wideband antenna for RF energy scavenging and SPV1050 in boost mode\n\n+\n\n* Cap-XX Thinline and TS3310 @ 3V\n* Cap-XX Thinline + SPV1050 1.8V LDO\n* 2x Cap-XX Thinline + SPV1050 1.8V LDO\n* STM EnFilm battery + SPV1050 LDOs\n* Li-ion or LiPo battery + SPV1050 LDOs\n* 4x NiMH batteries + SPV1050 LDOs\n\nSome solar cell options:\n\n* IXYS SLMD121H09L - 9 cell (62 x 21 x 2)mm
 $Comp
 L GND #PWR?
 U 1 1 56756952
