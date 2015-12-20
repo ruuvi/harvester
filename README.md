@@ -52,6 +52,8 @@ We're using the latest and the best technology available. After done enormous am
 
 If you're a business customer and would like to get some help integrating RuuviHarvester to your product, we want to help. For more info, email us info@ruuvi.com and let the green journey begin.
 
+[![Business model](https://github.com/ruuvi/harvester/blob/master/i/success.png)](http://ruuvi.com)
+
 ## Join the community
 
 If interested of what we're doing and would like to join, our Slack team is the best place to start: http://ruuvi.com/blog/ruuvi-slack-com.html
